@@ -1,10 +1,7 @@
 # Инструкция к Pritunl VPN для всех платформ
 Выберите платформу:
-- Windows
-- Linux
-- Mac OS
-- Android
-- iOS
+
+[[_TOC_]]
 
 ## Windows
 1. Скачайте Pritunl Client для Windows [с официального сайта](https://client.pritunl.com/) (внизу страницы, справа) и установите его.
