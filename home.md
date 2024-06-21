@@ -7,7 +7,7 @@
 1. Скачайте Pritunl Client для Windows [с официального сайта](https://client.pritunl.com/) (внизу страницы, справа) и установите его.
 2. Скачайте и установите [драйвер wireguard](https://www.wireguard.com/install/) для более высокой скорости подключения.
 3. Получите от discord-бота ссылку на ваш профиль с помощью команды /vpn и перейдите по ней.
-4. В Pritunl клиенте нажмите Import и вставьте в поле Profile URI ссылку со страницы профиля и нажмите Import.
+4. В Pritunl клиенте нажмите Import, вставьте в поле Profile URI ссылку со страницы профиля и нажмите Import.
 
 ![image](uploads/82844ec692a61ee05db9478dd547b611/image.png){width=60%}
 
@@ -18,7 +18,7 @@
 Примечание: Для установки на более старые версии дистрибутивов, например на Ubuntu 22.04 можно воспользоваться пакетами .deb/.rpm с прошлыми версиями "pritunl-client-electron", например, отсюда https://github.com/pritunl/pritunl-client-electron/releases/tag/1.3.3782.35. В этом случае не обновляйте клиент после установки.
 2. Скачайте и установите [драйвер wireguard](https://www.wireguard.com/install/) для более высокой скорости подключения.
 3. Получите от discord-бота ссылку на ваш профиль с помощью команды /vpn и перейдите по ней.
-4. В Pritunl клиенте нажмите Import и вставьте в поле Profile URI ссылку со страницы профиля и нажмите Import.
+4. В Pritunl клиенте нажмите Import, вставьте в поле Profile URI ссылку со страницы профиля и нажмите Import.
 
 ![image](uploads/82844ec692a61ee05db9478dd547b611/image.png){width=60%} 
 
@@ -28,7 +28,7 @@
 1. Скачайте Pritunl Client для MacOS [с официального сайта](https://client.pritunl.com/) (внизу страницы, слева) и установите его.
 2. Скачайте и установите [драйвер wireguard](https://www.wireguard.com/install/) для более высокой скорости подключения.
 3. Получите от discord-бота ссылку на ваш профиль с помощью команды /vpn и перейдите по ней.
-4. В Pritunl клиенте нажмите Import и вставьте в поле Profile URI ссылку со страницы профиля и нажмите Import.
+4. В Pritunl клиенте нажмите Import, вставьте в поле Profile URI ссылку со страницы профиля и нажмите Import.
 
 ![image](uploads/82844ec692a61ee05db9478dd547b611/image.png){width=60%} 
 
