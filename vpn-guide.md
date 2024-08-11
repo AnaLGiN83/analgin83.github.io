@@ -65,7 +65,7 @@
 Для избирательного проксирования трафика удобнее всего использовать расширения браузера. В примере ниже показаны настройки расширения FoxyProxy ([chrome](https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp), [firefox](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/))
 
 Пример настройки:
-![2024-08-11_19-42-33](https://github.com/user-attachments/assets/16778c4a-d47a-4f58-9eab-e388050cd601)
+![2024-08-11_19-55-05](https://github.com/user-attachments/assets/0aa3fc40-9203-4fea-a2d2-b198c8ebedad)
 
 ## Шаблоны для обхода блокировки Youtube
 - `://*.youtube.com/*`
